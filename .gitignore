@@ -1,0 +1,8 @@
+.venv/
+.idea/
+__pycache__/
+*.pyc
+.DS_Store
+websites_health.log
+launchd.err.log
+urls.local.txt
